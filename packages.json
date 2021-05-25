@@ -1,0 +1,10 @@
+[
+    {
+        "package": "FacileData",
+        "url": "https://github.com/facilebio/FacileData"
+    },
+    {
+        "package": "FacileAnalysis",
+        "url": "https://github.com/facilebio/FacileAnalysis"
+    }
+]
