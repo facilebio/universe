@@ -1,2 +1,2 @@
 # universe
-Configure for https://github.com/r-universe/facilebio
+Configuration for https://github.com/r-universe/facilebio
